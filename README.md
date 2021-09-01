@@ -14,43 +14,45 @@
 
  
 
-** EXAMPLE **
- - Type of Alternatives
+#EXAMPLE#
+## Type of Alternatives ##
 For the following English sentence (ID: split it-0239)
  
-English: "Do you <A1> remember that patient <A2> you sent home?" the other nurse <A3> asked matter-of-factly. 
+- English: "Do you <A1> remember that patient <A2> you sent home?" the other nurse <A3> asked matter-of-factly. 
 
 There are 4 correct gender-alternative Italian translations:
 
 
-Alternative 1: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
+- Alternative 1: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
 
-Alternative 2: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
+- Alternative 2: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
 
-Alternative 3: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
+- Alternative 3: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
 
-Alternative 4: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
+- Alternative 4: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
 
 The type of alternative for these sentences is defined as:
 
-MM - MF - FF - FM
+- MM - MF - FF - FM
 
-MM: refers to the fact that in the first alternative, both ambiguous entities are translated into the male form.
+Where:
 
-MF: for the second alternative, the first ambiguous entity is translated into a male form, and the second into the female form.
+- MM: refers to the fact that in the first alternative, both ambiguous entities are translated into the male form.
 
-FF: in the third alternative, both entities have been translated into the female form.
+- MF: for the second alternative, the first ambiguous entity is translated into a male form, and the second into the female form.
 
-FM: the fourth alternative translates the first disambiguated referent into a female form and second into a male form.
+- FF: in the third alternative, both entities have been translated into the female form.
 
-The ambiguous referents are listed asL
+- FM: the fourth alternative translates the first disambiguated referent into a female form and second into a male form.
 
-<A2>, <A3>
+The ambiguous referents are listed as:
+
+- <A2>, <A3>
 
 Together with the info on the type of alternatives generated you can infer that
-In alternative 1: the referents <A2> and <A3> are translated into the male forms.
-In alternative 2: the referent <A2> is translated into a male form, while <A3> is translated into the female form.
-In alternative 3: the referents <A2> and <A3> are translated into the female forms.
-In alternative 4: the referent <A2> is translated into the female form, while <A3> is translated into the male form.
+- Alternative 1: the referents <A2> and <A3> are translated into the male forms.
+- Alternative 2: the referent <A2> is translated into a male form, while <A3> is translated into the female form.
+- Alternative 3: the referents <A2> and <A3> are translated into the female forms.
+- Alternative 4: the referent <A2> is translated into the female form, while <A3> is translated into the male form.
  
  
