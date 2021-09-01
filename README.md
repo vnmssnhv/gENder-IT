@@ -62,13 +62,11 @@ Together with the info on the type of alternatives generated you can infer that
 - Alternative 3: the referents \<A2\> and \<A3\> are translated into the female forms.
 - Alternative 4: the referent \<A2\> is translated into the female form, while \<A3\> is translated into the male form.
  
- 
-### When using gENder-IT please cite the following papers:
+
+
+### When using gENder-IT please cite:
 
 Vanmassenhove, Eva, and Johanna Monti. "gENder-IT: An Annotated English–Italian Parallel Challenge Set for Cross-Linguistic Natural Gender Phenomena." GeBNLP 2021 (2021): 1.
-
-Bentivogli, Luisa, et al. "Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
-
 
 ### References
 
