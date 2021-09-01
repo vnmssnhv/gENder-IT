@@ -2,6 +2,8 @@
 - Licensed under the CC BY-NC-ND 3.0 License.
 - gENder-IT is an English--Italian challenge set focusing on the resolution of natural gender phenomena by providing word-level gender tags on the English source side and multiple gender alternative translations, where needed, on the Italian target side. 
 
+
+
 | Column ID     | Column label  | Explanation  |
 | ------------- |:-------------:| ------------:|
 | A             | ID            |Sentence ID ⋅⋅* Some our sentences have ideas that start with “split” indicating that we split the original MuST-SHE entry into multiple sentences. | 
@@ -60,4 +62,21 @@ Together with the info on the type of alternatives generated you can infer that
 - Alternative 3: the referents \<A2\> and \<A3\> are translated into the female forms.
 - Alternative 4: the referent \<A2\> is translated into the female form, while \<A3\> is translated into the male form.
  
+ 
+### When using gENder-IT please cite the following papers:
+
+Vanmassenhove, Eva, and Johanna Monti. "gENder-IT: An Annotated English–Italian Parallel Challenge Set for Cross-Linguistic Natural Gender Phenomena." GeBNLP 2021 (2021): 1.
+
+Bentivogli, Luisa, et al. "Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
+
+
+### References
+
+Bentivogli, Luisa, et al. "Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
+
+Saunders, Danielle, Rosie Sallis, and Bill Byrne. "Neural Machine Translation Doesn’t Translate Gender Coreference Right Unless You Make It." Proceedings of the Second Workshop on Gender Bias in Natural Language Processing. 2020.
+
+Vanmassenhove, Eva. On the integration of linguistic features into statistical and neural machine translation. Diss. Dublin City University, 2019.
+
+Vanmassenhove, Eva, and Johanna Monti. "gENder-IT: An Annotated English–Italian Parallel Challenge Set for Cross-Linguistic Natural Gender Phenomena." GeBNLP 2021 (2021): 1.
  
