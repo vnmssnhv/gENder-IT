@@ -14,9 +14,9 @@
 
  
 
-# EXAMPLE
+## EXAMPLE
 
-## Type of Alternatives
+### Type of Alternatives
 
 For the following English sentence (ID: split it-0239)
  
@@ -48,7 +48,7 @@ Where:
 - FM: the fourth alternative translates the first disambiguated referent into a female form and second into a male form.
 
 
-## Ambiguous Referents
+### Ambiguous Referents
 
 The ambiguous referents are listed as:
 
