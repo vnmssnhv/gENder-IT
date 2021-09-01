@@ -9,8 +9,8 @@
 | C | ONE CORRECT (GENDER) TRANSLATION (original MuST-SHE)      | The Italian translation of sentences that are not ambiguous, i.e. there is only one correct translation in terms of gender. These sentences are identical to the original ones presented in MuST-SHE (Bentivogli et al. 2020)|
 | D-M | MULTIPLE CORRECT GENDER TRANSLATIONS      | When a sentence is ambiguous in terms of the gender of a referent and this leads to multiple correct gender translations in Italian, all the possible translations are listed.  |
 | N | Number of Alternatives      | Sentences can have 2, 4, 8 … possible translations depending on the amount of ambiguous referents and the Italian translation. The number of alternatives is indicated in this column. |
-| O | Type of Alternatives      | A sequence that indicates the gender of the referents in the alternatives. ( see Example below)|
-| P | Ambiguous Referent      | The final column, indicates which referents in the original English sentences have been disambiguated in the Italian translations.| 
+| O | Type of Alternatives      | A sequence that indicates the gender of the referents in the alternatives. ( see example below)|
+| P | Ambiguous Referent      | The final column, indicates which referents in the original English sentences have been disambiguated in the Italian translations. (see example below)| 
 
  
 
