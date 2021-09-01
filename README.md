@@ -4,7 +4,66 @@
 
 | Column ID     | Column label  | Explanation  |
 | ------------- |:-------------:| ------------:|
-| A             | ID            |Sentence ID * Some our sentences have ideas that start with “split” indicating that we split the original MuST-SHE entry into multiple sentences. | 
+| A             | ID            |Sentence ID ⋅⋅* Some our sentences have ideas that start with “split” indicating that we split the original MuST-SHE entry into multiple sentences. | 
+| B             | ENGLISH       |   English version annotated with tags indicating whether a referent, given the sentential context, is male (<M>), female (<F>) or ambiguous (<A>). If multiple referents are ambiguous, we distinguish between them by using an additional index (<A1>, <A2>...) |
+| C | ONE CORRECT (GENDER) TRANSLATION (original MuST-SHE)      | The Italian translation of sentences that are not ambiguous, i.e. there is only one correct translation in terms of gender. These sentences are identical to the original ones presented in MuST-SHE (Bentivogli et al. 2020)|
+| D-M | MULTIPLE CORRECT GENDER TRANSLATIONS      | When a sentence is ambiguous in terms of the gender of a referent and this leads to multiple correct gender translations in Italian, all the possible translations are listed.  |
+| N | Number of Alternatives      | Sentences can have 2, 4, 8 … possible translations depending on the amount of ambiguous referents and the Italian translation. The number of alternatives is indicated in this column. |
+| O | Type of Alternatives      | A sequence that indicates the gender of the referents in the alternatives. For example,
+
+For the following English sentence (ID: split it-0239)
+ 
+English: "Do you <A1> remember that patient <A2> you sent home?" the other nurse <A3> asked matter-of-factly. 
+
+There are 4 correct gender-alternative Italian translations:
 
 
+Alternative 1: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
+
+Alternative 2: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
+
+Alternative 3: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
+
+Alternative 4: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
+
+The type of alternative for these sentences is defined as:
+
+MM - MF - FF - FM
+
+MM: refers to the fact that in the first alternative, both ambiguous entities are translated into the male form.
+
+MF: for the second alternative, the first ambiguous entity is translated into a male form, and the second into the female form.
+
+FF: in the third alternative, both entities have been translated into the female form.
+
+FM: the fourth alternative translates the first disambiguated referent into a female form and second into a male form.
+
+ |
+| P | Ambiguous Referent      | The final column, indicates which referents in the original English sentences have been disambiguated in the Italian translations. 
+
+For example:
+
+English: "Do you <A1> remember that patient <A2> you sent home?" the other nurse <A3> asked matter-of-factly. 
+
+There are 4 correct gender-alternative Italian translations:
+
+
+Alternative 1: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
+
+Alternative 2: “Si ricorda quel paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
+
+Alternative 3: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altra infermiera.
+
+Alternative 4: “Si ricorda quella paziente che ha mandato a casa? " mi ha chiesto l'altro infermiere.
+
+The ambiguous referents are listed asL
+
+<A2>, <A3>
+
+Together with the info on the type of alternatives generated you can infer that
+In alternative 1: the referents <A2> and <A3> are translated into the male forms.
+In alternative 2: the referent <A2> is translated into a male form, while <A3> is translated into the female form.
+In alternative 3: the referents <A2> and <A3> are translated into the female forms.
+In alternative 4: the referent <A2> is translated into the female form, while <A3> is translated into the male form.
+ |
 
