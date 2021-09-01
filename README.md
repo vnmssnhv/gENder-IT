@@ -14,8 +14,8 @@
 
  
 
-#EXAMPLE#
-## Type of Alternatives ##
+##EXAMPLE##
+*Type of Alternatives*
 For the following English sentence (ID: split it-0239)
  
 - English: "Do you \<A1\> remember that patient \<A2\> you sent home?" the other nurse \<A3\> asked matter-of-factly. 
@@ -45,6 +45,8 @@ Where:
 
 - FM: the fourth alternative translates the first disambiguated referent into a female form and second into a male form.
 
+
+*Ambiguous Referents*
 The ambiguous referents are listed as:
 
 - \<A2\>, \<A3\>
