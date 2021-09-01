@@ -2,6 +2,9 @@
 - Licensed under the CC BY-NC-ND 3.0 License.
 - gENder-IT is an English--Italian challenge set focusing on the resolution of natural gender phenomena by providing word-level gender tags on the English source side and multiple gender alternative translations, where needed, on the Italian target side. 
 
+The corpus is accessible through the following link:
+[Link to gENderIT](https://drive.google.com/drive/folders/15qlPVIM1neXyuhOSm-JUAr7_vwid1JWA?usp=sharing)
+
 
 
 | Column ID     | Column label  | Explanation  |
