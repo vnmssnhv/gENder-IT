@@ -6,7 +6,7 @@
 
 | Column ID     | Column label  | Explanation  |
 | ------------- |:-------------:| ------------:|
-| A             | ID            |Sentence ID - Some our sentences have ID's that start with “split” indicating that we split the original MuST-SHE entry into multiple sentences. | 
+| A             | ID            |Sentence ID - Some of our sentences have ID's that start with “split” indicating that we split the original MuST-SHE entry into multiple sentences. | 
 | B             | ENGLISH       |   English version annotated with tags indicating whether a referent, given the sentential context, is male (\<M\>), female (\<F\>) or ambiguous (\<A\>). If multiple referents are ambiguous, we distinguish between them by using an additional index (\<A1\>, \<A2\>...) |
 | C | ONE CORRECT (GENDER) TRANSLATION (original MuST-SHE)      | The Italian translation of sentences that are not ambiguous, i.e. there is only one correct translation in terms of gender. These sentences are identical to the original ones presented in MuST-SHE (Bentivogli et al. 2020)|
 | D-M | MULTIPLE CORRECT GENDER TRANSLATIONS      | When a sentence is ambiguous in terms of the gender of a referent and this leads to multiple correct gender translations in Italian, all the possible translations are listed.  |
