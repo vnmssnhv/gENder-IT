@@ -5,7 +5,7 @@
 | Column ID     | Column label  | Explanation  |
 | ------------- |:-------------:| ------------:|
 | A             | ID            |Sentence ID ⋅⋅* Some our sentences have ideas that start with “split” indicating that we split the original MuST-SHE entry into multiple sentences. | 
-| B             | ENGLISH       |   English version annotated with tags indicating whether a referent, given the sentential context, is male (<M>), female (<F>) or ambiguous (<A>). If multiple referents are ambiguous, we distinguish between them by using an additional index (<A1>, <A2>...) |
+| B             | ENGLISH       |   English version annotated with tags indicating whether a referent, given the sentential context, is male (\<M\>), female (\<F\>) or ambiguous (\<A\>). If multiple referents are ambiguous, we distinguish between them by using an additional index (\<A1\>, \<A2\>...) |
 | C | ONE CORRECT (GENDER) TRANSLATION (original MuST-SHE)      | The Italian translation of sentences that are not ambiguous, i.e. there is only one correct translation in terms of gender. These sentences are identical to the original ones presented in MuST-SHE (Bentivogli et al. 2020)|
 | D-M | MULTIPLE CORRECT GENDER TRANSLATIONS      | When a sentence is ambiguous in terms of the gender of a referent and this leads to multiple correct gender translations in Italian, all the possible translations are listed.  |
 | N | Number of Alternatives      | Sentences can have 2, 4, 8 … possible translations depending on the amount of ambiguous referents and the Italian translation. The number of alternatives is indicated in this column. |
@@ -18,7 +18,7 @@
 ## Type of Alternatives ##
 For the following English sentence (ID: split it-0239)
  
-- English: "Do you <A1> remember that patient <A2> you sent home?" the other nurse <A3> asked matter-of-factly. 
+- English: "Do you \<A1\> remember that patient \<A2\> you sent home?" the other nurse \<A3\> asked matter-of-factly. 
 
 There are 4 correct gender-alternative Italian translations:
 
@@ -47,12 +47,12 @@ Where:
 
 The ambiguous referents are listed as:
 
-- <A2>, <A3>
+- \<A2\>, \<A3\>
 
 Together with the info on the type of alternatives generated you can infer that
-- Alternative 1: the referents <A2> and <A3> are translated into the male forms.
-- Alternative 2: the referent <A2> is translated into a male form, while <A3> is translated into the female form.
-- Alternative 3: the referents <A2> and <A3> are translated into the female forms.
-- Alternative 4: the referent <A2> is translated into the female form, while <A3> is translated into the male form.
+- Alternative 1: the referents \<A2\> and \<A3\> are translated into the male forms.
+- Alternative 2: the referent \<A2\> is translated into a male form, while \<A3\> is translated into the female form.
+- Alternative 3: the referents \<A2\> and \<A3\> are translated into the female forms.
+- Alternative 4: the referent \<A2\> is translated into the female form, while \<A3\> is translated into the male form.
  
  
